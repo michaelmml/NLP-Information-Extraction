@@ -1,10 +1,10 @@
 # NLP-Information-Extraction
 Automated PDF and text processing; information extraction from text based on grammatical structure
 
-## General NLP on Text (Applied on Company Transcripts)
+### General NLP on Text (Applied on Company Transcripts)
 PDF Plumber extraction techniques; general data cleaning and boxplots of word count / densities; centroid words with TF-IDF and extractive summarisation by ranking; topic modelling and clustering; grammatical trends via dependencies and parts-of-speech
 
-## Keywords, Nouns and Topic Analysis (Applied to Patent Extracts)
+### Keywords, Nouns and Topic Analysis (Applied to Patent Extracts)
 Data preprocessing and word clouds over time periods; keyword extraction with TF-IDF; comparison against RAKE, GENSIM, Spacy; topic modelling with Latent Dirichlet Analysis; Named Entity Recognition; nouns with Matcher and frequency/momentum analysis; noun pairing and network graphs
 
 ![image](https://user-images.githubusercontent.com/84533632/156854348-a912db9e-a78f-4860-9bd3-b6ea15b7ff2d.png)
