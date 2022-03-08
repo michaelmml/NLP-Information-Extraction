@@ -9,4 +9,5 @@ Data preprocessing and word clouds over time periods; keyword extraction with TF
 
 ![image](https://user-images.githubusercontent.com/84533632/156854348-a912db9e-a78f-4860-9bd3-b6ea15b7ff2d.png)
 ![image](https://user-images.githubusercontent.com/84533632/156854291-9e43072d-2d2c-4eac-a44a-3882dfc09389.png)
-![image](https://user-images.githubusercontent.com/84533632/156843975-02dbced0-2163-4ee8-85df-06b9dbfa599b.png)
+![image](https://user-images.githubusercontent.com/84533632/157141857-22206cdb-0699-423b-9052-dfe9dac0075e.png)
+
